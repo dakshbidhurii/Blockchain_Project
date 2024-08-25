@@ -29,3 +29,8 @@ The Income Share Agreement (ISA) smart contract is designed to provide a decentr
   - `IncomeShareAgreement.test.js`: JavaScript test file containing tests for income payments, contract termination, and duration checks.
 - **`README.md`**: This file, which provides an overview of the project, its vision, features, and structure.
 - **`truffle-config.js`**: Configuration file for the Truffle framework used to deploy and test the smart contract.
+
+Deployment: 
+Chain ID: Educhain Open campus
+Contract Id: 0xdc25bdf84353275ec94336922a39502327f0f957
+
